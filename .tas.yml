@@ -1,6 +1,6 @@
 ---
 framework: mocha
-tier:large
+tier: large
 preRun:
   command:
     - npm install
